@@ -12,4 +12,3 @@ Contents
 Author
 
 25EG504F11
-[Open Day 1](./Day_1/README.md)
