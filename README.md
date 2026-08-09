@@ -5,10 +5,15 @@ Welcome to my RTL Design Workshop repository.
 Repository Structure
 
 RTL_Design_Workshop
+
 │
+
 ├── README.md
+
 │
+
 └── Day_1
+
     └── README.md
 
 This repository contains my work, assignments, and implementations completed during the RTL Design Workshop.
